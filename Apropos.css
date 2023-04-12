@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+}
+
+.body-apropos{
+  width: 100%;
+  height: 100%;
+  background-color: #1D243B;
+}
+#bigdiv{
+  margin: none;
+  width: 100%;
+  height: 100%;
+}
+.backgroundimg{
+  height: 500px;
+  width: 100%;
+  
+}
+#content{
+  position: relative;
+  left: 120px;
+  top:20px;
+  width: 80%;
+
+}
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+  margin-bottom: 20px;
+}
+li{
+  margin-bottom: 20px;
+}
+h1.text{
+  margin-left: 10px;
+}
+#bouton{
+  position: relative;
+  left: 120px;
+  top:40px;
+  width: 80%;
+  
+}
+button{
+  background-color: #D9D9D9;
+  width: 120px;
+  height: 30px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+  border-color: #D9D9D9;
+}
+#contacternous{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: #3A425C;
+}
+
+
+
